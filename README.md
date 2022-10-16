@@ -1,4 +1,6 @@
-# Discord_RAT
+`
+# Discord_RAT - 3Godziny
+`
 - Rat działa na winforms 4.6
 - c#
 !help - komendy
@@ -12,6 +14,3 @@ Wersja 1.0.4
 ---------------------------------------------
 Program w celu edukacyjnym !!!
 - Jest oprogramowaniem do zdalnego sterowania komputerem nie służy do złych celów
-`
-3Godziny
-`
