@@ -1,6 +1,6 @@
 `
 # Discord_RAT - 3Godziny
-`
+
 - Rat działa na winforms 4.6
 - c#
 !help - komendy
